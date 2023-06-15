@@ -1,0 +1,15 @@
+C:\rpg-2023-danielsj1996\bin\Debug\net7.0\rpg-2023-danielsj1996.exe
+C:\rpg-2023-danielsj1996\bin\Debug\net7.0\rpg-2023-danielsj1996.deps.json
+C:\rpg-2023-danielsj1996\bin\Debug\net7.0\rpg-2023-danielsj1996.runtimeconfig.json
+C:\rpg-2023-danielsj1996\bin\Debug\net7.0\rpg-2023-danielsj1996.dll
+C:\rpg-2023-danielsj1996\bin\Debug\net7.0\rpg-2023-danielsj1996.pdb
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.csproj.AssemblyReference.cache
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.GeneratedMSBuildEditorConfig.editorconfig
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.AssemblyInfoInputs.cache
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.AssemblyInfo.cs
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.csproj.CoreCompileInputs.cache
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.dll
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\refint\rpg-2023-danielsj1996.dll
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.pdb
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\rpg-2023-danielsj1996.genruntimeconfig.cache
+C:\rpg-2023-danielsj1996\obj\Debug\net7.0\ref\rpg-2023-danielsj1996.dll
