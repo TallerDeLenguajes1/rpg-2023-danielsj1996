@@ -3,47 +3,88 @@ namespace DatosPJ
     public enum Tipos
     {
         Mago,
-        Elf,
-        Guerrero,
-        GladiadorMago,
-        Commander
+        Luchador,
+        Asesino,
+        Utilidad,
+        Tank,
+        ADCarry
 
 
     }
 
     public enum Nombres
     {
-        Dark_Wizard,
-        Dark_Knight,
-        Magic_Gladiator,
-        Fairy_Elf,
-        Dark_Lord
+        Caitlyn,
+        Jinx,
+        Brand,
+        Leona,
+        Ashe,
+        Ahri,
+        Teemo,
+        Tristana,
+        Pyke,
+        GangPlank,
+        Garen,
+        Lux,
+        Morgana,
+        Braum,
+        Kayn,
+        Jhin,
+        Mordekaiser,
+        Darius,
+        Vi,
+        Xerath,
+        Amumu,
+        Thresh,
+        Maokai,
+        Shaco,
+        Zilean,
+        Cho_Gath,
+        Velkoz,
+        Malzahar,
+        Ziggs,
+        Singed,
+        Blitzcrank,
+        Aatrox
+
+
+
     }
 
-    public enum Apodos
+    public enum Region
     {
-        DK,
-        MG,
-        DW,
-        FE,
-        DL
+        Jonia,
+        Noxus,
+        Shurima,
+        Runaterra,
+        Piltover,
+        Zaun,
+        El_Vacio,
+        Ciudad_de_Bandle,
+        Demacia,
+        Freljord,
+        Aguasturbias,
+        Isla_de_la_Sombra,
+        Targon
+
+
 
     }
     public class Datos
     {
         private Tipos tipo;
         private Nombres nombre;
-        private Apodos apodo;
+        private Region region;
         private DateTime fechadeNac;
         private int edad;
-        private int stamina;
+        private int salud;
 
         public Tipos Tipo { get => tipo; set => tipo = value; }
         public Nombres Nombre { get => nombre; set => nombre = value; }
-        public Apodos Apodo { get => apodo; set => apodo = value; }
+        public Region Region { get => region; set => region = value; }
         public DateTime FechadeNac { get => fechadeNac; set => fechadeNac = value; }
         public int Edad { get => edad; set => edad = value; }
-        public int Stamina { get => stamina; set => stamina = value; }
+        public int Salud { get => salud; set => salud = value; }
     }
 
 }
